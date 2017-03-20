@@ -1,0 +1,5 @@
+C:\temp\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe.config
+C:\temp\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.exe
+C:\temp\LargestPalindromeProduct\LargestPalindromeProduct\bin\Debug\LargestPalindromeProduct.pdb
+C:\temp\LargestPalindromeProduct\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.exe
+C:\temp\LargestPalindromeProduct\LargestPalindromeProduct\obj\Debug\LargestPalindromeProduct.pdb
